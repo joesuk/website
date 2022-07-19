@@ -17,7 +17,8 @@ title: "Core Competency Review Sessions"
 2. [Random Variables and Transformations](/assets/review_doc_2.pdf) ([solutions](/assets/review_sol_2.pdf))
 3. [Multiple Random Variables](/assets/review_doc_3.pdf)
 4. [Multivariate Gaussians and Random Samples](/assets/review_doc_4.pdf)
-5. (Further review sheets and solutions to problems will be posted here as we go along.)
+5. [Stochastic Convergence](/assets/review_doc_5.pdf)
+6. (Further review sheets and solutions to problems will be posted here as we go along.)
 
 ### Other review materials:
 * Exams/review from STAT 4204: Statistical Inference:
