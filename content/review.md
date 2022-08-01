@@ -16,7 +16,7 @@ title: "Core Competency Review Sessions"
 1. [Linear Algebra](/assets/review_doc_1.pdf) ([solutions](/assets/review_sol_1.pdf))
 2. [Random Variables and Transformations](/assets/review_doc_2.pdf) ([solutions](/assets/review_sol_2.pdf))
 3. [Multiple Random Variables](/assets/review_doc_3.pdf) ([solutions](/assets/review_sol_3.pdf))
-4. [Multivariate Gaussians and Random Samples](/assets/review_doc_4.pdf)
+4. [Multivariate Gaussians and Random Samples](/assets/review_doc_4.pdf) ([solutions](/assets/review_sol_4.pdf))
 5. [Stochastic Convergence](/assets/review_doc_5.pdf)
 6. (Further review sheets and solutions to problems will be posted here as we go along.)
 
