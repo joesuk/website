@@ -11,7 +11,7 @@ title: "Core Competency Review Sessions"
 * [Sept 2020](/assets/Exam-Sept-20.pdf)
 * [May 2021](/assets/Exam-May-21.pdf)
 * [Sept 2021](/assets/Exam-Sept-21.pdf)
-* [June 2022](/assets/Exam-June-22.pdf)
+* [June 2022](/assets/Exam-June-22.pdf) ([solutions](/assets/june22_solutions.pdf))
 
 ### Review sheets:
 1. [Linear Algebra](/assets/review_doc_1.pdf) ([solutions](/assets/review_sol_1.pdf))
