@@ -21,7 +21,7 @@ title: "Core Competency Review Sessions"
 3. [Multiple Random Variables](/assets/review_doc_3.pdf) ([solutions](/assets/review_sol_3.pdf))
 4. [Multivariate Gaussians and Random Samples](/assets/review_doc_4.pdf) ([solutions](/assets/review_sol_4.pdf))
 5. [Stochastic Convergence](/assets/review_doc_5.pdf) ([solutions](/assets/review_sol_5.pdf))
-6. [Point Estimation](/assets/review_doc_6.pdf)
+6. [Point Estimation](/assets/review_doc_6.pdf) ([solutions](/assets/review_sol_6.pdf))
 7. [Hypothesis Testing](/assets/review_doc_7.pdf)
 8. [Asymptotics of Tests and Estimators](/assets/review_doc_8.pdf)
 
