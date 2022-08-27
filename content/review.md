@@ -23,7 +23,7 @@ title: "Core Competency Review Sessions"
 5. [Stochastic Convergence](/assets/review_doc_5.pdf) ([solutions](/assets/review_sol_5.pdf))
 6. [Point Estimation](/assets/review_doc_6.pdf) ([solutions](/assets/review_sol_6.pdf))
 7. [Hypothesis Testing](/assets/review_doc_7.pdf) ([solutions](/assets/review_sol_7.pdf))
-8. [Asymptotics of Tests and Estimators](/assets/review_doc_8.pdf)
+8. [Asymptotics of Tests and Estimators](/assets/review_doc_8.pdf) ([solutions](/assets/review_sol_8.pdf))
 
 ### Other review materials:
 * Exams/review from STAT 4204: Statistical Inference:
