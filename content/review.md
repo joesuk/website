@@ -2,8 +2,6 @@
 title: "Core Competency Review Sessions"
 ---
 
-[Link](https://drive.google.com/drive/folders/1r6pQ6Y8HDkMZ2keuMfI-I2YWs2rZiFmr?usp=sharing) to recordings.
-
 ### Previous exams:
 * [2018 Practice Exam](/assets/practice_exam.pdf)
 * [Sept 2018](/assets/Exam-Sept-18.pdf)
