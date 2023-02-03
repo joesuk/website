@@ -6,8 +6,8 @@ title: "Joe Suk"
 I'm a PhD student at Columbia University.
 
 ### papers and preprints
-<!-- * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_
-* [Nonstationary Dueling Bandits with SST/STI: Optimal, Efficient, and Adaptive](https://arxiv.org/abs/2112.13838), with Arpit Agrawal. _COLT 2023_ -->
+<!-- * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_ -->
+* [When Can We Track Significant Shifts in Dueling Bandits?](https://arxiv.org/abs/2112.13838), with Arpit Agarwal.
 * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_
 * [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/abs/2007.08584), with Samory Kpotufe. _ALT 2021_
 * [Dihedral Sieving Phenomena](https://arxiv.org/abs/1710.06517), with Sujit Rao. _Discrete Mathematics_
