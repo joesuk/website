@@ -3,12 +3,12 @@
 
 
 body {
-  background-color: #fdf6e3 /*#93ff8e /* #ecf0f1 #964d94*/;
+  background-color: #c09ec1 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
 font-family: 'Noto Sans', sans-serif;
 }
 
 h1 {
-color: #d33682;
+color: #5a008b;
 text-align: left;
 font-size: 26px;
 font-family: 'Noto Sans', sans-serif;
@@ -16,7 +16,7 @@ font-family: 'Noto Sans', sans-serif;
 
 
 h2 {
-  color: #d33682 /*#5b5b5b /*#FFFFFF*/;
+  color: #5a008b /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 24px;
 font-family: 'Noto Sans', sans-serif;
@@ -24,25 +24,25 @@ font-family: 'Noto Sans', sans-serif;
 
 
 h3 {
-  color: #d33682 /*#5b5b5b /*#FFFFFF*/;
+  color: #5a008b /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 22px;
 font-family: 'Noto Sans', sans-serif;
 }
 
 p, ul, li {
-  color:  #586e75 /*#5b5b5b /*#FFFFFF*/;
+  color:  #292929 /*#5b5b5b /*#FFFFFF*/;
   font-size: 20px;
 font-family: 'Noto Sans', sans-serif;
 }
 
 a {
-  color:  #268bd2 /* #c90076 /* #3d85c6 /* #afbeff */;
+  color: #970158  /* #c90076 /* #3d85c6 /* #afbeff */;
 font-family: 'Noto Sans', sans-serif;
 }
 
 a:hover {
-	color:#859900;
+	color:#273f7b;
 }
 
 /* old */
