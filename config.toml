@@ -3,3 +3,4 @@ baseURL = "https://columbia.edu/~js5338"
 languageCode = 'en-us'
 title = 'Joe Suk'
 theme = 'lugo'
+canonifyURLs = true
