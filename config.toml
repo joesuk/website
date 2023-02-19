@@ -1,5 +1,5 @@
-#baseURL = "/"
-relativeURLs = true
+baseURL = "https://columbia.edu/~js5338"
+#relativeURLs = true
 languageCode = 'en-us'
 title = 'Joe Suk'
 theme = 'lugo'
