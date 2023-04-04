@@ -1,12 +1,13 @@
 ---
 title: "Joe Suk"
 ---
-[email](mailto:js5338@columbia.edu)
+[email](mailto:joe.suk@columbia.edu)
 
 I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). I'm interested in machine learning theory and sequential decision making problems.
 
 ### papers and preprints
-* Tracking Most Significant Arm Switches in Contextual Bandits, with Samory Kpotufe. _forthcoming on Arxiv_
+<!--* Adaptivity in Smoothly Varying Non-Stationary Bandits. _forthcoming on Arxiv_-->
+* Tracking Most Significant Switches in Contextual Bandits, with Samory Kpotufe. _forthcoming on Arxiv_
 * [When Can We Track Significant Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf), with Arpit Agarwal.
 * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_
 * [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/abs/2007.08584), with Samory Kpotufe. _ALT 2021_
