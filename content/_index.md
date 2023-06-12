@@ -4,10 +4,10 @@ title: "Joe Suk"
 ---
 [email](mailto:joe.suk@columbia.edu)
 
-I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). I'm interested in machine learning theory and sequential decision making problems.
+I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/).
 
 ### papers and preprints
-<!--* Adaptivity in Smoothly Varying Non-Stationary Bandits. _forthcoming on Arxiv_-->
+* Adaptivity in Smoothly Varying Non-Stationary Bandits. _forthcoming on Arxiv_
 * Tracking Most Significant Switches in Contextual Bandits, with Samory Kpotufe. _forthcoming on Arxiv_
 * [When Can We Track Significant Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf), with Arpit Agarwal.
 * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_
@@ -23,5 +23,4 @@ I'm a PhD student in statistics at Columbia University advised by [Samory Kpotuf
 ### sundry links
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&gmla=AJsN-F7UfY5q6YkE-CxGknI9A6qPoAw7maEA7izMhqHcpQZRsMV6AFIOebYOfz9Np2bGQ8QGboH6bopjLTIXa0UpA7RohKBJvMHq3t1hJuCdLf2WWDT7_1I)
 * [my arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term="Joseph+Suk"&terms-0-field=author&terms-1-operator=OR&terms-1-term="Joe+Suk"&terms-1-field=author)
-* [GitHub](https://github.com/joesuk)
 * [Hugo config and source for this website](https://github.com/joesuk/website)
