@@ -2,6 +2,7 @@
 title: "Core Competency Review Sessions"
 ---
 
+
 ### Previous exams:
 * [2018 Practice Exam](/assets/practice_exam.pdf)
 * [Sept 2018](/assets/Exam-Sept-18.pdf)
@@ -13,6 +14,7 @@ title: "Core Competency Review Sessions"
 * [Sept 2021](/assets/Exam-Sept-21.pdf)
 * [June 2022](/assets/Exam-June-22.pdf) ([solutions](/assets/june22_solutions.pdf))
 
+
 ### Review sheets:
 1. [Linear Algebra](/assets/review_doc_1.pdf) ([solutions](/assets/review_sol_1.pdf))
 2. [Random Variables and Transformations](/assets/review_doc_2.pdf) ([solutions](/assets/review_sol_2.pdf))
@@ -22,6 +24,8 @@ title: "Core Competency Review Sessions"
 6. [Point Estimation](/assets/review_doc_6.pdf) ([solutions](/assets/review_sol_6.pdf))
 7. [Hypothesis Testing](/assets/review_doc_7.pdf) ([solutions](/assets/review_sol_7.pdf))
 8. [Asymptotics of Tests and Estimators](/assets/review_doc_8.pdf) ([solutions](/assets/review_sol_8.pdf))
+
+To see the source tex for any of the review docs/solutions above, replace the "pdf" suffix in each URL with "tex". You'll also need the following [preamble](/assets/review_preamble.tex) and [style file](/assets/joe_macros.sty) in the same directory to compile.
 
 ### Other review materials:
 * Exams/review from STAT 4204: Statistical Inference:
