@@ -7,8 +7,8 @@ title: "Joe Suk"
 I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/).
 
 ### papers and preprints
-* Adaptivity in Smoothly Varying Non-Stationary Bandits. _forthcoming on Arxiv_
-* Tracking Most Significant Switches in Contextual Bandits, with Samory Kpotufe. _forthcoming on Arxiv_
+* Adaptivity in Smoothly Varying Non-Stationary Bandits. _in preparation_
+* [Tracking Most Significant Switches in Nonparametric Contextual Bandits](https://arxiv.org/abs/2307.05341), with Samory Kpotufe.
 * [When Can We Track Significant Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf), with Arpit Agarwal.
 * [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/abs/2112.13838), with Samory Kpotufe. _COLT 2022_
 * [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/abs/2007.08584), with Samory Kpotufe. _ALT 2021_
