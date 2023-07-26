@@ -3,7 +3,7 @@
 
 
 body {
-  background-color: #c09ec1 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
+  background-color: #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
 font-family: 'Noto Sans', sans-serif;
 }
 
@@ -42,7 +42,7 @@ font-family: 'Noto Sans', sans-serif;
 }
 
 a:hover {
-	color:#273f7b;
+	color:#e3002a /*#273f7b*/;
 }
 
 /* old */
