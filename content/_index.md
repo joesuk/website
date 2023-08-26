@@ -4,7 +4,7 @@ title: "Joe Suk"
 ---
 [email](mailto:joe.suk@columbia.edu)
 
-I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/).
+I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). My research interests are in sequential decision making problems (bandits, online learning, RL) and learning theory.
 
 ### papers and preprints
 * Adaptivity in Smoothly Varying Non-Stationary Bandits. _in preparation_
