@@ -12,8 +12,6 @@ style="background: #FFFFFF; margin:0;padding:0; border:0;"
 >
 </iframe>
 
-*Download audio [here](https://drive.google.com/file/d/1LmnVMkLUEr2bI732rmzIOkvecgGPdAdz/view?usp=sharing). Length: one hour.*
-
 I talk with David van Riper, Director of Spatial Analysis at the Minnesota Population Center, about the implementation of differential privacy techniques in the 2020 US Census. We discuss some of the new issues demographers and researchers dependent on the census will face this decade and the intricate tradeoffs inherent in designing a census which is both accurate and confidential.
 
 ### Relevant Links and Sources:
@@ -31,7 +29,7 @@ I talk with David van Riper, Director of Spatial Analysis at the Minnesota Popul
 - [Trade-Offs between Fairness, Interpretability, and Privacy in Machine Learning](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15861/Agarwal_Sushant.pdf?sequence=3&isAllowed=y) by Sushant Agarwal.
 
 
-### Audio Transcript
+### Interview Transcript
 
 **Intro**: The United States decennial census undertakes the grand and complicated mission of counting and surveying the nation's now over 300 million inhabitants. Conducted every ten years, the census hopes to capture the demographic fitness of this vast nation, tabulating the age, sex, race, and ethnicity of every individual from coast to coast, leaving hopefully no person unturned or uncounted or forgotten.
 

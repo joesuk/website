@@ -3,14 +3,14 @@
 
 
 body {
-  background-color: #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
+  background-color: #eed3f9 /* #ecf0f1 /* #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
 font-family: 'Noto Sans', sans-serif;
 }
 
 h1 {
 color: #5a008b;
 text-align: left;
-font-size: 26px;
+font-size: 24px;
 font-family: 'Noto Sans', sans-serif;
 }
 
@@ -18,17 +18,23 @@ font-family: 'Noto Sans', sans-serif;
 h2 {
   color: #5a008b /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
-  font-size: 24px;
+  font-size: 20px;
 font-family: 'Noto Sans', sans-serif;
 }
 
+
+h5 {
+  font-size: 1px;
+}
 
 h3 {
   color: #5a008b /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
-  font-size: 22px;
+  font-size: 20px;
 font-family: 'Noto Sans', sans-serif;
 }
+
+
 
 p, ul, li {
   color:  #292929 /*#5b5b5b /*#FFFFFF*/;
@@ -37,7 +43,7 @@ font-family: 'Noto Sans', sans-serif;
 }
 
 a {
-  color: #970158  /* #c90076 /* #3d85c6 /* #afbeff */;
+  color:  #1200e4 /* #970158  /* #c90076 /* #3d85c6 /* #afbeff */;
 font-family: 'Noto Sans', sans-serif;
 }
 
