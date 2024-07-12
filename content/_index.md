@@ -3,19 +3,14 @@ title: "Joe Suk"
 ---
 
 
-[email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate) &nbsp; &nbsp; [CV](/assets/Joe_Suk_cv.pdf)
+[email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
-I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). I broadly focus on sequential decision-making (online learning, multi-armed bandits, reinforcement learning), statistical learning theory, and non-parametric statistics. I'm especially interested in questions of adaptivity and robustness in the context of non-stationary environments and transfer learning problems, and how to deal with changing environments in practical problems of interest. I'm currently looking for postdoc and/or post-graduate research opportunities. Please feel free to get in touch.
-
+I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/).
 
 ### Preprints and Publications
-* Tracking Most Significant Switches in Infinite-Armed Bandits.\
-Joe Suk. _In preparation_
-* Adaptive Dynamic Regret Bounds in Bandits with Adaptive Losses.\
-Joe Suk. _In preparation_
-* [Adaptive Smooth Non-Stationary Bandits](/assets/Suk24_smooth.pdf).\
+* [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf).\
 Joe Suk. _Preprint_
 * [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://arxiv.org/pdf/2403.12950.pdf).\
 Joe Suk, Arpit Agarwal. _Preprint_
@@ -32,11 +27,10 @@ Sunita Chepuri, Neeraja Kulkarni, Joe Suk, Ewin Tang. _Journal of Combinatorics_
 * [Dihedral Sieving Phenomena](https://arxiv.org/pdf/1710.06517.pdf)\
 Sujit Rao, Joe Suk. _Discrete Mathematics_
 
-
 ### Academic Activities/Service
 * Reviewing:
     * Journals: IEEE Transactions in Info. Theory, JRSS-B, TMLR, Enumerative Combinatorics and Applications.
     * Conferences: NeurIPS ('Top Reviewers'), ICML, ICLR, IJCAI, AISTATS, COLT.
 * Graduate student mentor for the [CSUREMM](https://www.math.columbia.edu/programs-math/undergraduate-program/undergraduate-research/csuremm/) program in 2021 and 2022.
-* I organized [review](/review) sessions for the core competency exam (for stats PhD students) in 2021 and 2022.
+* [Review](/review) sessions for Columbia stats phd core competency exam.
 * [Interview](/podcast) on differential privacy in US census (a final project for "Communicating Data & Statistics" class at Columbia)
