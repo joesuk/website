@@ -11,9 +11,9 @@ I'm a PhD student in statistics at Columbia University advised by [Samory Kpotuf
 
 ### Preprints and Publications
 * [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf).\
-Joe Suk. _Preprint_
+Joe Suk.
 * [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://arxiv.org/pdf/2403.12950.pdf).\
-Joe Suk, Arpit Agarwal. _Preprint_
+Joe Suk, Arpit Agarwal.
 * [Tracking Most Significant Switches in Nonparametric Contextual Bandits](https://arxiv.org/pdf/2307.05341.pdf).\
 Joe Suk, Samory Kpotufe. _Advances in Neural Information Processing Systems (NeurIPS) 2023_
 * [When Can We Track Significant Preference Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf).\

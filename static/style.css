@@ -3,12 +3,12 @@
 
 
 body {
-  background-color: #f7ebdb /* #ecf0f1 /* #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
+  background-color: #CFCFFF /* #f7ebdb /* #ecf0f1 /* #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
 font-family: 'Noto Sans', sans-serif;
 }
 
 h1 {
-color: #4a8123;
+color: #1818ba;
 text-align: left;
 font-size: 24px;
 font-family: 'Noto Sans', sans-serif;
@@ -16,7 +16,7 @@ font-family: 'Noto Sans', sans-serif;
 
 
 h2 {
-  color: #867e36 /*#5b5b5b /*#FFFFFF*/;
+  color: #1818ba /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
 font-family: 'Noto Sans', sans-serif;
@@ -28,7 +28,7 @@ h5 {
 }
 
 h3 {
-  color: #4a8123 /*#5b5b5b /*#FFFFFF*/;
+  color: #1818ba /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
 font-family: 'Noto Sans', sans-serif;
@@ -48,7 +48,7 @@ font-family: 'Noto Sans', sans-serif;
 }
 
 a:hover {
-	color:#299617 /*#273f7b*/;
+	color:#5e1029 /*#273f7b*/;
 }
 
 /* old */
