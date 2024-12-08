@@ -3,28 +3,30 @@ title: "Joe Suk"
 ---
 
 
-[email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate)
+[Email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
-I'm a PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/).
+I'm a final-year PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). I study the theory of multi-armed bandits and reinforcement learning, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/post-graduate research opportunities in the NYC area.
 
 ### Preprints and Publications
-1. [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf).\
-Joe Suk.
-2. [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://arxiv.org/pdf/2403.12950.pdf).\
-Joe Suk, Arpit Agarwal.
-3. [Tracking Most Significant Switches in Nonparametric Contextual Bandits](https://arxiv.org/pdf/2307.05341.pdf).\
-Joe Suk, Samory Kpotufe. _Advances in Neural Information Processing Systems (NeurIPS) 2023_
-4. [When Can We Track Significant Preference Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf).\
+1. Tracking Most Significant Switches in Infinite-Armed Bandits\
+Joe Suk. _In Preparation_
+2. [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf)\
+Joe Suk. _Preprint_
+3. [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://openreview.net/pdf?id=KZRnDZ70M2)\
+Joe Suk, Arpit Agarwal. _Transactions on Machine Learning Research (TMLR)_ ("Featured Certification")
+4. [When Can We Track Significant Preference Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf)\
 Joe Suk, Arpit Agarwal. _Advances in Neural Information Processing Systems (NeurIPS) 2023_
-5. [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/pdf/2112.13838.pdf)\
+5. [Tracking Most Significant Switches in Nonparametric Contextual Bandits](https://arxiv.org/pdf/2307.05341.pdf)\
+Joe Suk, Samory Kpotufe. _Advances in Neural Information Processing Systems (NeurIPS) 2023_
+6. [Tracking Most Significant Arm Switches in Bandits](https://arxiv.org/pdf/2112.13838.pdf)\
 Joe Suk, Samory Kpotufe. _Conference on Learning Theory (COLT) 2022_
-6. [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/pdf/2007.08584.pdf)\
+7. [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/pdf/2007.08584.pdf)\
 Joe Suk, Samory Kpotufe. _International Conference on Algorithmic Learning Theory (ALT) 2021_
-7. [Factorizations of _k_-Nonnegative Matrices](https://arxiv.org/pdf/1710.10867.pdf)\
+8. [Factorizations of _k_-Nonnegative Matrices](https://arxiv.org/pdf/1710.10867.pdf)\
 Sunita Chepuri, Neeraja Kulkarni, Joe Suk, Ewin Tang. _Journal of Combinatorics_
-8. [Dihedral Sieving Phenomena](https://arxiv.org/pdf/1710.06517.pdf)\
+9. [Dihedral Sieving Phenomena](https://arxiv.org/pdf/1710.06517.pdf)\
 Sujit Rao, Joe Suk. _Discrete Mathematics_
 
 ### Misc.

@@ -1,9 +1,8 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;600&display=swap');*/
 @import url('https://fonts.googleapis.com/css?family=Noto Sans');
 
 
 body {
-  background-color: #CFCFFF /* #f7ebdb /* #ecf0f1 /* #e3bfd3 /* #cdadd9 /*#93ff8e /* #ecf0f1 #c09ec1 #964d94*/;
+  background-color: #b8dbbb /* #f7ebdb #ecf0f1 #e3bfd3 #cdadd9 #93ff8e #c09ec1 #964d94*/;
 font-family: 'Noto Sans', sans-serif;
 }
 
@@ -48,7 +47,7 @@ font-family: 'Noto Sans', sans-serif;
 }
 
 a:hover {
-	color:#5e1029 /*#273f7b*/;
+	color:#c90076 /*#273f7b*/;
 }
 
 /* old */
