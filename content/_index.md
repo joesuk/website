@@ -3,15 +3,15 @@ title: "Joe Suk"
 ---
 
 
-[Email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate)
+[Email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate) &nbsp; &nbsp; [CV](/assets/Joe_Suk_cv.pdf)
 
 ---
 
-I'm a final-year PhD student in statistics at Columbia University advised by [Samory Kpotufe](http://www.columbia.edu/~skk2175/). I study the theory of multi-armed bandits and reinforcement learning, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/post-graduate research opportunities in the NYC area.
+I'm a postdoctoral research scientist at Columbia University's Department of Statistics working under [Samory Kpotufe](http://www.columbia.edu/~skk2175/), where I also finished my PhD in 2024. I study multi-armed bandit and reinforcement learning theory, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/followup research opportunities in the NYC area.
 
 ### Preprints and Publications
-1. Tracking Most Significant Switches in Infinite-Armed Bandits\
-Joe Suk, Jung-hun Kim. _In Preparation_
+1. [Tracking Most Significant Switches in Infinite-Armed Bandits](/assets/infinite.pdf)\
+Joe Suk, Jung-hun Kim. _Preprint_
 2. [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf)\
 Joe Suk. _Preprint_
 3. [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://openreview.net/pdf?id=KZRnDZ70M2)\
