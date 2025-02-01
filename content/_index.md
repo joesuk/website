@@ -11,7 +11,7 @@ I'm a final-year PhD student in statistics at Columbia University advised by [Sa
 
 ### Preprints and Publications
 1. Tracking Most Significant Switches in Infinite-Armed Bandits\
-Joe Suk. _In Preparation_
+Joe Suk, Jung-hun Kim. _In Preparation_
 2. [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf)\
 Joe Suk. _Preprint_
 3. [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://openreview.net/pdf?id=KZRnDZ70M2)\
