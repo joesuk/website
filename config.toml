@@ -4,3 +4,8 @@ languageCode = 'en-us'
 title = 'Joe Suk'
 theme = 'lugo'
 canonifyURLs = true
+
+ # Navigation
+[params.navigation]
+#other stuff
+logo = "logo.png"
