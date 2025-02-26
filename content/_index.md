@@ -7,7 +7,7 @@ title: "Joe Suk"
 
 ---
 
-I'm a postdoctoral research scientist at Columbia University's Statistics Department working under [Samory Kpotufe](http://www.columbia.edu/~skk2175/), with whom I my PhD in 2024. I study multi-armed bandit and reinforcement learning theory, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/followup research opportunities.
+I'm a postdoctoral research scientist at Columbia University's Statistics Department working under [Samory Kpotufe](http://www.columbia.edu/~skk2175/), under whom I received my PhD in 2024. I study multi-armed bandit and reinforcement learning theory, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/followup research opportunities.
 
 ### Preprints and Publications
 1. [Tracking Most Significant Switches in Infinite-Armed Bandits](https://arxiv.org/pdf/2502.00108)\
