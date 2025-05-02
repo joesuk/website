@@ -1,24 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Noto Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 
 body {
-  background-color: #E3EDFF /* #b8dbbb /* #f7ebdb #ecf0f1 #e3bfd3 #cdadd9 #93ff8e #c09ec1 #964d94*/;
-font-family: 'Noto Sans', sans-serif;
+  background-color: #fae3ea /* #f7ebdb #ecf0f1 #e3bfd3 #cdadd9 #93ff8e #c09ec1 #964d94*/;
+font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-color: #140F0E;
+color: #471f5a;
 text-align: left;
-font-size: 24px;
-font-family: 'Noto Sans', sans-serif;
+font-size: 50px;
+font-family: 'Roboto', sans-serif;
+margin-bottom: 0px;
+margin-top: 1px;
 }
 
 
 h2 {
-  color: #140F0E /*#5b5b5b /*#FFFFFF*/;
+  color: #471f5a /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 
@@ -27,10 +29,10 @@ h5 {
 }
 
 h3 {
-  color: #140F0E /*#5b5b5b /*#FFFFFF*/;
+  color: #471f5a /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 
@@ -38,16 +40,16 @@ font-family: 'Noto Sans', sans-serif;
 p, ul, li {
   color:  #292929 /*#5b5b5b /*#FFFFFF*/;
   font-size: 20px;
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 a {
   color:  #6a2aa6  /* #c90076 /* #3d85c6 /* #afbeff */;
-font-family: 'Noto Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 a:hover {
-	color:#568e3d /*#273f7b*/;
+	color:#228065 /*#273f7b*/;
 }
 
 /* old */

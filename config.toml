@@ -9,3 +9,9 @@ canonifyURLs = true
 [params.navigation]
 #other stuff
 logo = "logo.png"
+
+# markup stuff needed for html
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

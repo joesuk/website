@@ -1,19 +1,55 @@
 ---
 title: "Joe Suk"
 ---
-
-
-[Email](mailto:joe.suk@columbia.edu) &nbsp; &nbsp; [Github](https://github.com/joesuk) &nbsp; &nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate) &nbsp; &nbsp; [my arXiv](https://arxiv.org/a/suk_j_1.html) &nbsp; &nbsp; [CV](/assets/Joe_Suk_cv.pdf)
+<a href="mailto:joe.suk@columbia.edu">
+<span style="font-size: 2rem;">
+  <span style="color: #471f5a;">
+    <i class="fa-solid fa-envelope"></i>
+  </span>
+</span>
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/joesuk">
+<span style="font-size: 2rem;">
+  <span style="color: #471f5a;">
+    <i class="fa-brands fa-github"></i>
+  </span>
+</span>
+</a>
+&nbsp; &nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate">
+<span style="font-size: 0.7rem;">
+  <span style="color: #471f5a;">
+    <i class="ai ai-google-scholar-square ai-3x"></i>
+  </span>
+</span>
+</a>
+&nbsp; &nbsp;
+<a href="https://arxiv.org/a/suk_j_1.html">
+<span style="font-size: 0.7rem;">
+  <span style="color: #471f5a;">
+    <i class="ai ai-arxiv ai-3x"></i>
+  </span>
+</span>
+</a>
+&nbsp; &nbsp;
+<a href="/assets/Joe_Suk_cv.pdf">
+<span style="font-size: 0.7rem;">
+  <span style="color: #471f5a;">
+    <i class="ai ai-cv ai-3x"></i>
+  </span>
+</span>
+</a>
 
 ---
 
-I'm a postdoctoral research scientist at Columbia University's Statistics Department working under [Samory Kpotufe](http://www.columbia.edu/~skk2175/), under whom I received my PhD in 2024. I study multi-armed bandit and reinforcement learning theory, focusing on non-stationary and adversarial problems. I'm currently looking for postdoc/followup research opportunities.
+I'm a postdoc at Columbia University's Statistics Department working under [Samory Kpotufe](http://www.columbia.edu/~skk2175/), under whom I also received my PhD in 2024. I study multi-armed bandit and reinforcement learning theory, focusing on non-stationary and adversarial problems.
 
 ### Preprints and Publications
 1. [Tracking Most Significant Switches in Infinite-Armed Bandits](https://arxiv.org/pdf/2502.00108) [\[code\]](https://github.com/joesuk/NonStationaryInfiniteBandits)\
-Joe Suk, Jung-hun Kim. _Preprint_
+Joe Suk, Jung-hun Kim. _International Conference on Machine Learning (ICML) 2025_
 2. [Adaptive Smooth Non-Stationary Bandits](https://arxiv.org/pdf/2407.08654.pdf) [\[code\]](https://github.com/joesuk/SmoothBandits)\
-Joe Suk. _Major revision at SIAM Journal on Mathematics of Data Science (SIMODS)_
+Joe Suk. _SIAM Journal on Mathematics of Data Science (SIMODS)_
 3. [Non-Stationary Dueling Bandits Under a Weighted Borda Criterion](https://openreview.net/pdf?id=KZRnDZ70M2)\
 Joe Suk, Arpit Agarwal. _Transactions on Machine Learning Research (TMLR)_ ("Featured Certification")
 4. [When Can We Track Significant Preference Shifts in Dueling Bandits?](https://arxiv.org/pdf/2302.06595.pdf) [\[code\]](https://github.com/joesuk/nonstationary-duel)\
