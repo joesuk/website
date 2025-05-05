@@ -1,43 +1,43 @@
 ---
 title: "Joe Suk"
 ---
+<style>
+  .faicon {
+    font-size: 2.5rem;
+    color: #471f5a;
+  }
+
+  .faicon:hover {
+    color: #228065;
+  }
+</style>
 <a href="mailto:joe.suk@columbia.edu">
-<span style="font-size: 2rem;">
-  <span style="color: #471f5a;">
-    <i class="fa-solid fa-envelope"></i>
+  <span title="mailto link">
+    <i class="fa-solid fa-envelope faicon"></i>
   </span>
-</span>
 </a>
 &nbsp; &nbsp;
 <a href="https://github.com/joesuk">
-<span style="font-size: 2rem;">
-  <span style="color: #471f5a;">
-    <i class="fa-brands fa-github"></i>
+  <span title="my Github">
+    <i class="fa-brands fa-github faicon"></i>
   </span>
-</span>
 </a>
 &nbsp; &nbsp;
 <a href="https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate">
-<span style="font-size: 0.7rem;">
-  <span style="color: #471f5a;">
-    <i class="ai ai-google-scholar-square ai-3x"></i>
-  </span>
+<span title="Google Scholar">
+    <i class="ai ai-google-scholar-square ai-3a faicon"></i>
 </span>
 </a>
 &nbsp; &nbsp;
 <a href="https://arxiv.org/a/suk_j_1.html">
-<span style="font-size: 0.7rem;">
-  <span style="color: #471f5a;">
-    <i class="ai ai-arxiv ai-3x"></i>
-  </span>
+<span title="my arxiv">
+    <i class="ai ai-arxiv ai-3x faicon"></i>
 </span>
 </a>
 &nbsp; &nbsp;
 <a href="/assets/Joe_Suk_cv.pdf">
-<span style="font-size: 0.7rem;">
-  <span style="color: #471f5a;">
-    <i class="ai ai-cv ai-3x"></i>
-  </span>
+<span title="CV">
+    <i class="ai ai-cv ai-3x faicon"></i>
 </span>
 </a>
 
@@ -61,10 +61,11 @@ Joe Suk, Samory Kpotufe. _Conference on Learning Theory (COLT) 2022_
 7. [Self-Tuning Bandits over Unknown Covariate-Shifts](https://arxiv.org/pdf/2007.08584.pdf) [\[code\]](https://github.com/joesuk/bandits_cov_shifts)\
 Joe Suk, Samory Kpotufe. _International Conference on Algorithmic Learning Theory (ALT) 2021_
 8. [Factorizations of _k_-Nonnegative Matrices](https://arxiv.org/pdf/1710.10867.pdf)\
-Sunita Chepuri, Neeraja Kulkarni, Joe Suk, Ewin Tang. _Journal of Combinatorics_
+($\alpha$--$\beta$) Sunita Chepuri, Neeraja Kulkarni, Joe Suk, Ewin Tang. _Journal of Combinatorics_
 9. [Dihedral Sieving Phenomena](https://arxiv.org/pdf/1710.06517.pdf)\
-Sujit Rao, Joe Suk. _Discrete Mathematics_
+($\alpha$--$\beta$) Sujit Rao, Joe Suk. _Discrete Mathematics_
 
 ### Misc.
 * [Review](/review) sessions for Columbia stats phd core competency exam.
 * [Interview](/podcast) on differential privacy in US census (a final project for "Communicating Data & Statistics" class at Columbia)
+* This site is made using [Hugo](https://gohugo.io/), a static site generator. [Here](https://github.com/joesuk/website) are config and source files.
