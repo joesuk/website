@@ -29,6 +29,153 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
 	<meta charset="utf-8">
+
+	<!-- ADD THIS CSS AND JAVASCRIPT HERE -->
+	<style>
+	header h1 a {
+	  color: #57068c !important;
+	  text-decoration: none !important;
+	  transition: color 0.2s !important;
+	}
+	header h1 a:hover {
+	  color: #228065 !important;
+	}
+			h1 a {
+	  color: #57068c;
+	  text-decoration: none;
+	  transition: color 0.2s;
+	}
+	h1 a:hover {
+	  color: #228065;
+	}
+	  .faicon {
+	    font-size: 2.5rem;
+	    color: #57068c;
+	  }
+	  .faicon:hover {
+	    color: #228065;
+	  }
+	  .social-icons {
+	    display: flex;
+	    gap: 1rem;
+	    align-items: center;
+	  }
+	  .social-icons a {
+	    text-decoration: none;
+	  }
+	  .header-nav {
+	    display: flex;
+	    gap: 0.3rem;
+	    align-items: center;
+	  }
+	  .header-nav a {
+	    text-decoration: none;
+	    color: #57086c;
+	    font-weight: bold;
+	    padding: 0.3rem 0.6rem;
+	    border-radius: 4px;
+	    transition: background-color 0.2s;
+	    font-size: 1.5rem;
+	  }
+	  .header-nav a:hover {
+	    background-color: #f0f0f0;
+	    color: #228065;
+	  }
+	</style>
+
+	<script>
+	document.addEventListener('DOMContentLoaded', function() {
+	 const navLinks = `
+	    <a href="/papers">papers</a>
+	    <a href="/teaching">teaching</a>
+	    <a href="/misc">misc</a>
+	  `;
+	  const socialIcons = `
+	    <!--<a href="mailto:j.suk@nyu.edu">
+	      <span title="mailto link">
+	        <i class="fa-solid fa-envelope faicon"></i>
+	      </span>
+	    </a>-->
+	     <a href="mailto:j.suk@nyu.edu"
+     id="copyEmail"
+     data-email="j.suk@nyu.edu"
+     title="Copy email (⌘/Ctrl+click to open mail app)"
+     aria-label="Copy email address">
+    <i class="fa-solid fa-envelope faicon"></i>
+  </a>
+	      <a href="https://www.linkedin.com/in/joe-suk/" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener">
+    <i class="fa-brands fa-linkedin-in faicon"></i>
+		  </a>
+	    <a href="https://github.com/joesuk">
+	      <span title="my Github">
+	        <i class="fa-brands fa-github faicon"></i>
+	      </span>
+	    </a>
+	    <!--<a href="https://instagram.com/ybjosuk" title="Instagram" aria-label="Instagram" target="_blank" rel="noopener">
+  <i class="fa-brands fa-instagram faicon"></i>
+</a>-->
+	    <a href="https://scholar.google.com/citations?hl=en&user=972KeX4AAAAJ&view_op=list_works&sortby=pubdate">
+	    <span title="Google Scholar">
+	        <i class="ai ai-google-scholar-square ai-3a faicon"></i>
+	    </span>
+	    </a>
+	    <!-- <a href="https://arxiv.org/a/suk_j_1.html">
+	    <span title="my arxiv">
+	        <i class="ai ai-arxiv ai-3x faicon"></i>
+	    </span>
+	    </a>-->
+	    <a href="/assets/Joe_Suk_cv.pdf">
+	    <span title="CV">
+	        <i class="ai ai-cv ai-3x faicon"></i>
+	    </span>
+	    </a>
+	  `;
+
+	  const navContainer = document.querySelector('.header-nav');
+	  const socialContainer = document.querySelector('.social-icons');
+
+	  if (navContainer) {
+	    navContainer.innerHTML = navLinks;
+	  }
+	  if (socialContainer) {
+	    socialContainer.innerHTML = socialIcons;
+	  }
+	if (socialContainer) {
+  socialContainer.innerHTML = socialIcons;
+
+  // copy-to-clipboard for email icon (with Cmd/Ctrl-click fallback to mailto)
+  const copyEl = document.getElementById('copyEmail');
+  if (copyEl) {
+    copyEl.addEventListener('click', async (e) => {
+      if (e.metaKey || e.ctrlKey) return; // allow opening mail app on modifier-click
+      e.preventDefault();
+      const email = copyEl.dataset.email;
+
+      try {
+        await navigator.clipboard.writeText(email);
+        copyEl.title = 'Copied!';
+      } catch {
+        // fallback for older browsers or blocked clipboard
+        const ta = document.createElement('textarea');
+        ta.value = email;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        copyEl.title = 'Copied!';
+      }
+
+      // reset tooltip title
+      setTimeout(() => (copyEl.title = 'Copy email (⌘/Ctrl+click to open mail app)'), 1500);
+    });
+  }
+}
+
+	});
+	</script>
+
 </head>
 <body>
 {{- if .Site.Menus.main }}

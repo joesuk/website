@@ -1,5 +1,13 @@
 {{ partial "header.html" . -}}
-<header><h1>{{ .Title }}</h1></header>
+<header style="display: flex; align-items: center; min-height: 60px; max-width: 100vw; overflow: hidden; position: static;">
+	<h1 style="margin: 0; flex-shrink: 0"><a href="/" class="header-nav-link">{{ .Title }}</a></h1>
+  <nav class="header-nav" style="margin-left: calc(10vw + 50px); min-margin-left: 2rem; position: static;">
+    <!-- Navigation links will go here -->
+  </nav>
+  <div class="social-icons" style="margin-left: auto; flex-shrink: 0;">
+    <!-- Your icons will go here automatically from .Content -->
+  </div>
+</header>
 <article>
 {{ .Content -}}
 {{ partial "footer.html" . }}

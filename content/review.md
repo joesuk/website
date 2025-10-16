@@ -1,8 +1,9 @@
 ---
 title: "Core Competency Review Sessions"
+layout: "minimal"
 ---
 
-
+---
 ### Previous exams:
 * [2018 Practice Exam](/assets/practice_exam.pdf)
 * [Sept 2018](/assets/Exam-Sept-18.pdf)

@@ -1,13 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto Sans');
 
+:root {
+  --bg-pink: #fae3ea;
+  --primary-purple: #57068c;
+  --hover-green: #228065;
+  --bg-white: #FFFFFF
+}
+
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
 
 body {
-  background-color: #fae3ea /* #f7ebdb #ecf0f1 #e3bfd3 #cdadd9 #93ff8e #c09ec1 #964d94*/;
-font-family: 'Roboto', sans-serif;
+  background-color: var(--bg-white)  !important;  /* #fae3ea #f7ebdb #ecf0f1 #e3bfd3 #cdadd9 #93ff8e #c09ec1 #964d94*/;
+/*font-family: 'Roboto', sans-serif;*/
+font-family: Optima, Candara, Calibri, Arial, sans-serif;
 }
 
 h1 {
-color: #471f5a;
+color: #000000;
 text-align: left;
 font-size: 50px;
 font-family: 'Roboto', sans-serif;
@@ -17,7 +29,7 @@ margin-top: 1px;
 
 
 h2 {
-  color: #471f5a /*#5b5b5b /*#FFFFFF*/;
+  color: #000000 /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
 font-family: 'Roboto', sans-serif;
@@ -29,7 +41,7 @@ h5 {
 }
 
 h3 {
-  color: #471f5a /*#5b5b5b /*#FFFFFF*/;
+  color: #000000 /*#5b5b5b /*#FFFFFF*/;
   text-align: left;
   font-size: 20px;
 font-family: 'Roboto', sans-serif;
@@ -44,7 +56,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 a {
-  color:  #6a2aa6  /* #c90076 /* #3d85c6 /* #afbeff */;
+  color:  #57068c  /* #c90076 /* #3d85c6 /* #afbeff */;
 font-family: 'Roboto', sans-serif;
 }
 
@@ -65,6 +77,11 @@ img { max-width: 100% ; }
 main {
 	/*max-width: 1000px ;*/
 	margin: auto ;
+	background-color: var(--bg-white)  !important;
+}
+
+html {
+  background-color: var(--bg-white)  !important;
 }
 
 header h1 {
@@ -109,4 +126,21 @@ nav ul, footer ul, #taglist {
 		text-align: center ;
 		margin: .5em auto ;
 	}
+}
+
+.header-nav-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+.header-nav-link:hover {
+  background-color: #f0f0f0;
+  color: #57068c;
+}
+
+* {
+  background-color: inherit !important;
 }
